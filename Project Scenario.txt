@@ -1,0 +1,99 @@
+📜 Project Scenario: "The Brew Haven Café"
+Client: Local café based in Coimbatore
+Goal: Simple, stylish website to promote their café, showcase menu, and allow online table booking
+Stack: HTML + CSS (you can add JavaScript later)
+
+🏗️ Website Structure
+🔹 1. Home Page (index.html)
+Sections:
+
+Hero Section
+
+Café name: The Brew Haven
+
+Background image of the café
+
+CTA: “Explore Menu” / “Reserve Table”
+
+About Us
+
+Short story about the café
+
+Values (organic, cozy vibes, locally sourced)
+
+Image Gallery
+
+Showcase interior, food, ambience
+
+🔹 2. Menu Page (menu.html)
+Sections:
+
+Categories:
+
+Coffee ☕ (Espresso, Latte, Cappuccino)
+
+Snacks 🍪 (Croissants, Sandwiches)
+
+Special Drinks 🍹 (Smoothies, Cold Brews)
+
+Use cards or grids for menu items
+
+Each item: Image, Name, Price, Short description
+
+🔹 3. Reservation Page (reserve.html)
+Features:
+
+Form with:
+
+Name
+
+Date
+
+Time
+
+No. of Guests
+
+Special Requests (textarea)
+
+Submit & Reset buttons
+
+Styling with :focus, :hover, etc.
+
+🔹 4. Contact Page (contact.html)
+Sections:
+
+Café address + map (iframe)
+
+Opening hours
+
+Contact form (Name, Email, Message)
+
+Social links (Instagram, Facebook)
+
+🔹 5. Footer (in all pages)
+Includes:
+
+Quick links (Home, Menu, Contact)
+
+Social icons
+
+Copyright © 2025
+
+🎨 Suggested Styling Features
+Feature	How to Style
+Responsive Navbar	Flexbox
+Background Hero	background-image with overlay text
+Menu Grid	CSS Grid or Flex cards
+Fonts	Use Google Fonts like "Poppins" or "Quicksand"
+Buttons	Rounded, with hover effects
+Form UI	Consistent padding, focus border color
+Colors	Use soft tones: browns, creams, pastels
+
+🌍 Bonus (Optional if you go extra):
+Add animation for hero text
+
+Smooth scrolling between sections
+
+Light/dark theme toggle (with JS)
+
+Live preview hosted on GitHub Pages
